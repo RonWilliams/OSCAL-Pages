@@ -1,5 +1,5 @@
 title: "OSCAL"
-baseURL: https://pages.nist.gov/OSCAL
+baseURL: https://ronwilliams.github.io/OSCAL-Pages/
 relativeURLs: true
 canonifyURLs: true
 defaultContentLanguage: en
