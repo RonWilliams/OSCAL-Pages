@@ -35,8 +35,8 @@ jobs:
     name: Build Website
     runs-on: ubuntu-20.04
     env:
-      HUGO_VERSION: v0.121.1
-      HUGO_CHECKSUM: "237d5f83a49e0e1d9fd80ddb2d4905dd4606ff86c2831200390a41ecc283ee56"
+      HUGO_VERSION: 0.126.1
+      HUGO_CHECKSUM: "bbaf0cb1de758f4fee4501fff9fd20ec632ec4cc25b7c1c6a916d538acc4715f"
     steps:
     # https://gohugo.io/hosting-and-deployment/hosting-on-github/
     # Install Hugo
